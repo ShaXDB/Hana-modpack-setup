@@ -1,6 +1,7 @@
 # Hana Modlu Minecraft Mod Paketi Yükleyicisi
 
-Minecraft 1.20.1 için hazırlanmış Hana mod paketi sayesinde, modları kolayca yükleyebilir ve sunucuya sorunsuz şekilde bağlanabilirsiniz. İki farklı kurulum yöntemi mevcuttur: **Otomatik Yükleyici ile Kolay Kurulum** ve **Manuel Kurulum**.
+Minecraft 1.20.1 için hazırlanmış Hana mod paketi sayesinde, modları kolayca yükleyebilir ve sunucuya sorunsuz şekilde bağlanabilirsiniz.  
+İki farklı kurulum yöntemi mevcuttur: **Otomatik Yükleyici ile Kolay Kurulum** ve **Manuel Kurulum**.
 
 ---
 
@@ -18,6 +19,18 @@ Kurulum sırasında:
 - Konsolda `Tamamlandı` mesajını gördüğünüzde uygulamayı kapatabilirsiniz.
 - Minecraft Launcher'dan **Forge 47.4.0** sürümünü seçip oyunu başlatın.
 - Artık sunucuya giriş yapabilirsiniz!
+
+---
+
+## 🔁 CurseForge Kullanıcıları İçin
+
+CurseForge kullanıyorsanız, **Releases** bölümünden `Hana Minecraft.zip` dosyasını indirerek mod paketini kolayca içe aktarabilirsiniz:
+
+1. CurseForge uygulamasını açın.
+2. Yeni bir profil oluşturun veya mevcut 1.20.1 Forge profiline girin.
+3. Sağ üstteki **"Modpack yükle"** seçeneğine tıklayın.
+4. `Hana Minecraft.zip` dosyasını seçin.
+5. Modlar otomatik olarak yüklenecektir. Oyunu başlatabilirsiniz!
 
 ---
 
@@ -45,10 +58,10 @@ Dosya **VirusTotal** üzerinden taranmıştır ve herhangi bir trojan veya zarar
 ## ❓ Sıkça Sorulan Sorular
 
 ### Q: Mod yükleyici neden `.exe` formatında?
-A: Kurulum sürecini otomatikleştirmek ve herkesin kolayca kullanabilmesi için Windows uyumlu `.exe` formatında sunulmuştur.
+**A:** Kurulum sürecini otomatikleştirmek ve herkesin kolayca kullanabilmesi için Windows uyumlu `.exe` formatında sunulmuştur.
 
 ### Q: Hangi Minecraft sürümünü kullanmalıyım?
-A: Minecraft **1.20.1** sürümünü ve Forge **47.4.0** yapısını kullanmalısınız.
+**A:** Minecraft **1.20.1** sürümünü ve Forge **47.4.0** yapısını kullanmalısınız.
 
 ---
 
@@ -58,4 +71,4 @@ Herhangi bir sorunla karşılaşırsanız, [Hana Discord sunucumuza katılın](h
 
 ---
 
-İyi oyunlar ve bol eğlenceler! 🎮
+**İyi oyunlar ve bol eğlenceler! 🎮**
