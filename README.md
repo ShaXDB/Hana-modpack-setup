@@ -35,8 +35,8 @@ Dosya **VirusTotal** üzerinden taranmıştır ve herhangi bir trojan veya zarar
 2. `.minecraft` klasörünü açın.
 3. **Releases** bölümünden `mods.zip` ve `config.zip` dosyalarını indirin.
 4. Bu arşivlerin içindeki:
-   - `mods` klasörünü `.minecraft/mods/` klasörüne,
-   - `config` klasörünü `.minecraft/config/` klasörüne çıkarın.
+   - `mods.zip` içeriğini `.minecraft/mods/` klasörüne,
+   - `config.zip` içeriğini `.minecraft/config/` klasörüne çıkarın.
 5. Minecraft Launcher’dan **Forge 47.4.0** sürümünü seçin ve oyunu başlatın.
 6. Sunucuya giriş yapabilirsiniz!
 
