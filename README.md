@@ -22,18 +22,6 @@ Kurulum sırasında:
 
 ---
 
-## 🔁 CurseForge Kullanıcıları İçin
-
-CurseForge kullanıyorsanız, **Releases** bölümünden `Hana Minecraft.zip` dosyasını indirerek mod paketini kolayca içe aktarabilirsiniz:
-
-1. CurseForge uygulamasını açın.
-2. Minecraft'ı seçin
-3. Yukarıdan Import'a basıp Import Profile .zip in altındaki Choose .zip file'ı seçin
-4. `Hana Minecraft.zip` dosyasını seçin.
-5. Modlar otomatik olarak yüklenecektir. Oyunu başlatabilirsiniz!
-
----
-
 ## 🔐 Güvenlik Bilgisi
 
 Dosya **VirusTotal** üzerinden taranmıştır ve herhangi bir trojan veya zararlı yazılım içermemektedir.
@@ -52,6 +40,18 @@ Dosya **VirusTotal** üzerinden taranmıştır ve herhangi bir trojan veya zarar
    - `config.zip` içeriğini `.minecraft/config/` klasörüne çıkarın.
 5. Minecraft Launcher’dan **Forge 47.4.0** sürümünü seçin ve oyunu başlatın.
 6. Sunucuya giriş yapabilirsiniz!
+
+---
+
+## 🔁 CurseForge Kullanıcıları İçin
+
+CurseForge kullanıyorsanız, **Releases** bölümünden `Hana Minecraft.zip` dosyasını indirerek mod paketini kolayca içe aktarabilirsiniz:
+
+1. CurseForge uygulamasını açın.
+2. Minecraft'ı seçin
+3. Yukarıdan Import'a basıp Import Profile .zip in altındaki Choose .zip file'ı seçin
+4. `Hana Minecraft.zip` dosyasını seçin.
+5. Modlar otomatik olarak yüklenecektir. Oyunu başlatabilirsiniz!
 
 ---
 
