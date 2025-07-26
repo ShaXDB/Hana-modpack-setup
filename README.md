@@ -7,7 +7,7 @@ Minecraft 1.20.1 için hazırlanmış Hana mod paketi sayesinde, modları kolayc
 
 ## 🔧 Otomatik Kurulum (Önerilir)
 
-1. Sağ taraftaki **Releases** bölümüne gidin ve `Hana Minecraft Mod Yükleyici.exe` dosyasını indirin.
+1. Sağ taraftaki **Releases** bölümüne gidin ve `Hana.Minecraft.Mod.Yükleyici.exe` dosyasını indirin.
 2. Uygulamayı çalıştırın.
 3. Minecraft’ın yüklü olduğu klasörü seçin (örneğin: `.minecraft`).
 4. **Başlat** butonuna tıklayın.
@@ -45,12 +45,12 @@ Dosya **VirusTotal** üzerinden taranmıştır ve herhangi bir trojan veya zarar
 
 ## 🔁 CurseForge Kullanıcıları İçin
 
-CurseForge kullanıyorsanız, **Releases** bölümünden `Hana Minecraft.zip` dosyasını indirerek mod paketini kolayca içe aktarabilirsiniz:
+CurseForge kullanıyorsanız, **Releases** bölümünden `Hana.Minecraft.CurseForge.zip` dosyasını indirerek mod paketini kolayca içe aktarabilirsiniz:
 
 1. CurseForge uygulamasını açın.
 2. Minecraft'ı seçin
 3. Yukarıdan Import'a basıp Import Profile .zip in altındaki Choose .zip file'ı seçin
-4. `Hana Minecraft.zip` dosyasını seçin.
+4. `Hana.Minecraft.CurseForge.zip` dosyasını seçin.
 5. Modlar otomatik olarak yüklenecektir. Oyunu başlatabilirsiniz!
 
 ---
